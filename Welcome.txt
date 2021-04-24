@@ -1,3 +1,5 @@
 Hi again
 
 I'm adding some text
+
+Now, I'm updating two files so that I can add both to the staging area. Slight change.
